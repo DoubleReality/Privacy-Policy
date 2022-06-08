@@ -1,4 +1,6 @@
-## Privacy Policy 2
+
+
+## Privacy Policy
 
 
 Double Reality built the Call Of Dungeon app as a Free app. This SERVICE is provided by Double Reality at no cost and is intended for use as is.
