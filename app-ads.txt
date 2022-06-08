@@ -869,3 +869,4 @@ start.io, 164512585, DIRECT
 startapp.com, 164512585, DIRECT
 #IQzone
 iqzone.com,IQ96,RESELLER
+google.com, pub-1142761820472820, DIRECT, f08c47fec0942fa0
